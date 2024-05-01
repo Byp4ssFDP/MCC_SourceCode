@@ -93,7 +93,7 @@ while True:
     if chon == 'SS':
         os.system('cls')
         print("                                            \033[1;39mLoading Screen Share Tools Page..")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/SSTool').text)
+        exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/SSSection.py').text)
     if chon == 'c':
         os.system('cls')
         print("                                                  \033[1;39mRendering Credits..")
