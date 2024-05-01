@@ -73,7 +73,7 @@ nig = """
                                                          \033[1;31m[\033[1;39mC\033[1;31m]
 \033[1;39m                                                    \033[1;35m For credits.
    \033[0;31m                                            Choose your favourite game.
-                                                         Decompiled By BypassFDP
+                                                    Decompiled By BypassFDP
 
                                      \033[1;31m[\033[1;39m1\033[1;31m] \033[1;32mMinecraft                \033[1;31m[\033[1;39mSS\033[1;31m] \033[1;32mScreen Share Tools
 
