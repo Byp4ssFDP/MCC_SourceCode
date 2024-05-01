@@ -89,7 +89,7 @@ while True:
     if chon == '1':
         os.system('cls')
         print("                                              \033[1;39mLoading Minecraft Page..")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Minecraft').text)
+        exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/MinecraftSection.py').text)
     if chon == 'SS':
         os.system('cls')
         print("                                            \033[1;39mLoading Screen Share Tools Page..")
