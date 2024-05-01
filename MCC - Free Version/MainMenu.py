@@ -97,10 +97,10 @@ while True:
     if chon == 'c':
         os.system('cls')
         print("                                                  \033[1;39mRendering Credits..")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Credits').text)
+        exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/CreditsSection.py').text)
     if chon == 'C':
         os.system('cls')
         print("                                                  \033[1;39mRendering Credits..")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Credits').text)
+        exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/CreditsSection.py').text)
     else:
         continue
