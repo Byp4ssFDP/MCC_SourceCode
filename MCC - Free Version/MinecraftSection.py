@@ -417,7 +417,7 @@ while True:
     if chon == '-':
         os.system('cls')
         print("Now entering : SSTool")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/SSTool').text)
+        exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/SSSection.py').text)
     if chon == '1.1':
         exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Vape').text)
     if chon == '2.1':
